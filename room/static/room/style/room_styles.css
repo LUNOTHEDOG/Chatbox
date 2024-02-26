@@ -1,0 +1,21 @@
+.chat-messages {
+    height: 500px; /* Adjust based on your layout */
+    overflow-y: auto; /* Automatically show scrollbar when needed */
+    scroll-behavior: smooth;
+}
+
+
+/* For messages sent by the logged-in user */
+.message-sent {
+    width: 90%;
+    background-color: rgb(148 163 184);
+    border-radius: 50px;
+}
+
+/* For messages received from others */
+.message-received {
+    width: 85%;
+    margin-left: auto; /* Align to the right */
+    background-color: rgb(203 213 225);
+    border-radius: 50px;
+}
