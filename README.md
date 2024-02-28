@@ -16,7 +16,7 @@ This is a chatroom application built using Django and WebSocket technologies. Us
 1. Clone the project using the `git clone` command:
 
     ```bash
-    git clone https://github.com/LUNOTHEDOG/chatroom.git
+    git clone https://github.com/LUNOTHEDOG/Chatbox.git
     ```
 
 2. Install the required dependencies:
